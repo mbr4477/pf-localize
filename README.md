@@ -1,4 +1,5 @@
 # Pygame Particle Filtering Demo
+[Demo on YouTube](https://youtu.be/U25gBZ0sfoo)
 
 ## Setup
 ```bash
